@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋-->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Z-Zheng/Z-Zheng/master/1080x360.jpg"><br><br>
+</div>
 <!--
 **Z-Zheng/Z-Zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
